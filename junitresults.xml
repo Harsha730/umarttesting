@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="umart home page" timestamp="2020-11-09T19:22:45" hostname="localhost" time="5.087" errors="0" tests="1" skipped="0" failures="0">
+  <testcase classname="umart home page" name="user should see umart website" time="5.086">
+  </testcase>
+ </testsuite>
+</testsuites>
